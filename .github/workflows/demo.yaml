@@ -17,5 +17,5 @@ jobs:
           python-version: "3.12"
           cache: "pip"
       - name: Install libraries
-        run: pip install -r requirement.txt
+        run: pip install -r requirements.txt
         
